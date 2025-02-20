@@ -1,0 +1,5 @@
+1 chairs
+2 Tables
+3 Sofa  
+4 TV
+5 AC
